@@ -51,12 +51,9 @@ Learn to identify and remove potentially harmful or unused browser extensions to
 
 ---
 
-## 📸 Screenshots:
-*Optional: Add if available*
-- `screenshots/before_removal.png`
-- `screenshots/after_removal.png`
 
----
+
+
 
 ## ✅ Outcome:
 - Improved awareness of browser extension threats
